@@ -62,7 +62,7 @@ Rising Coders
 ## 📽️ Demo & Deliverables
 
 - *Demo Video Link:* [https://youtu.be/77Xr0cyhkeI?si=EaDYI8OT8RRW8dn5]
-- *Pitch Deck / PPT Link:* [Paste Google Slides / PDF link here]  
+- *PPT Link:* [https://docs.google.com/presentation/d/1KhUeSTJ-TEgGayvM1QXPIUFswnVGpvJy/edit?usp=drivesdk&ouid=102539776016522061125&rtpof=true&sd=true]  
 
 ---
 

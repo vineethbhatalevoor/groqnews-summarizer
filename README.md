@@ -28,7 +28,7 @@ Rising Coders
 - Anushree K ([GitHub](https://github.com/Anushree-K01) / [LinkedIn](https://www.linkedin.com/in/anushree-k-36a990330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - Vineeth ([GitHub](https://github.com/vineethbhatalevoor)) / [LinkedIn](https://www.linkedin.com/in/vineethbhatalevoor0507?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - Vishnu Prasad ([GitHub](https://github.com/Vpnayak97) / [LinkedIn](https://www.linkedin.com/in/vishnu-prasad-nayak-4b6333266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- Kishan Shetty ([LinkedIn](https://www.linkedin.com/in/kishansshetty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- Kishan Shetty ([GitHub](https://github.com/KishanSShetty) / [LinkedIn](https://www.linkedin.com/in/kishansshetty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ### Our Approach:  
 - We chose this problem to help users quickly understand news content without reading full articles, making information more accessible and time-efficient.
